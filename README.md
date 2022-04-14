@@ -121,7 +121,7 @@ body {
 <div class="navbar">
   <a href="#">Home</a>
   <a href="#">Education</a>
-  <a href="#">skils</a>
+  <a href="#">skills</a>
   <a href="#" class="right">contact page</a>
 </div>
 
